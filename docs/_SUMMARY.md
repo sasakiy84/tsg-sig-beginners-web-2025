@@ -2,5 +2,5 @@
 - [HTML](01_lec1.md)
 - [CSS](02_lec2.md)
 - [JavaScript 1](03_lec3.md)
-
+- [JavaScript 2](04_lec4.md)
 
